@@ -1,0 +1,16 @@
+{
+  "name": "date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "date": "node date.js",
+    "meteo": "node weather.js"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
